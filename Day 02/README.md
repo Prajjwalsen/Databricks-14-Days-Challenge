@@ -1,1 +1,82 @@
+# 📅 Day 02 – Apache Spark Fundamentals (Databricks)
+
+## 🚀 Databricks 14 Days AI Challenge
+This repository documents my learning journey for **Day 02** of the  
+**Databricks 14 Days AI Challenge** by **Indian Data Club**.
+
+---
+
+## 📌 What I Learned
+- Apache Spark architecture (Driver, Executors, DAG)
+- Difference between DataFrames and RDDs
+- Lazy evaluation in Spark
+- Databricks notebook magic commands (`%python`, `%sql`, `%fs`)
+- Performing transformations and actions using PySpark
+
+---
+
+## 🛠️ Tasks Completed
+✅ Created Day 02 Databricks notebook  
+✅ Created sample e-commerce dataset using PySpark  
+✅ Loaded data into Spark DataFrame  
+✅ Performed basic operations (select, filter, groupBy, orderBy)  
+✅ Explored Spark schema and execution behavior  
+
+---
+
+## 🧪 Hands-on Implementation
+
+### 🔹 1. Creating Sample DataFrame (E-commerce Events)
+![Create DataFrame](Screenshots/Screenshot%202026-01-10%192143.png)
+
+---
+
+### 🔹 2. Selecting Required Columns
+![Select Operation](screenshots/select_operation.png)
+
+---
+
+### 🔹 3. Filtering Data using PySpark
+![Filter Operation](screenshots/filter_operation.png)
+
+---
+
+### 🔹 4. GroupBy Operation on Event Type
+![GroupBy Operation](screenshots/groupby_operation.png)
+
+---
+
+### 🔹 5. OrderBy to Find Top Brands
+![OrderBy Operation](screenshots/orderby_operation.png)
+
+---
+
+### 🔹 6. DataFrame Schema Exploration
+![Print Schema](screenshots/print_schema.png)
+
+---
+
+## 🧠 Key Takeaways
+- Spark uses lazy evaluation to optimize performance
+- DataFrames are more optimized and user-friendly than RDDs
+- `groupBy` and `orderBy` are powerful for analytical queries
+- Understanding schema is crucial before transformations
+
+---
+
+## 📂 Repository Structure
+```text
+Databricks-14-Days-Challenge/
+│
+├── Day 02/
+│   ├── README.md
+│   └── screenshots/
+│       ├── create_dataframe.png
+│       ├── select_operation.png
+│       ├── filter_operation.png
+│       ├── groupby_operation.png
+│       ├── orderby_operation.png
+│       └── print_schema.png
+│
+└── README.md
 
