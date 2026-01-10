@@ -22,13 +22,41 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
-## 📂 Repository Structure (Current)
+
+## 📅 Day 02 – PySpark DataFrame Operations
+
+### 📘 What I Learned
+- Creating PySpark DataFrames using `Row`
+- Understanding DataFrame schema with `printSchema()`
+- Selecting specific columns from a DataFrame
+- Filtering records using conditions
+- Aggregating data using `groupBy`
+- Sorting data using `orderBy`
+
+### ✅ Tasks Completed
+- Created sample E-commerce events DataFrame
+- Explored DataFrame schema
+- Performed select and filter operations
+- Applied groupBy and orderBy for analysis
+
+📂 **Detailed implementation with screenshots:**  
+➡️ [View Day-02 Documentation](Day-02/)
+
+---
+
+## 📂 Repository Structure
 
 ```text
 Databricks-14-Days-Challenge/
 │
 ├── Day-01/
-│   ├── README.md          # Day 01 detailed explanation
-│   └── Screenshots/       # Execution & output screenshots
+│   ├── README.md
+│   └── Screenshots/
 │
-└── README.md              # Main project overview
+├── Day 02/
+│   ├── README.md
+│   └── Screenshots/
+│
+└── README.md
+
+
