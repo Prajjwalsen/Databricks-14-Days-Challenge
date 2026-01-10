@@ -27,32 +27,32 @@ This repository documents my learning journey for **Day 02** of the
 ## 🧪 Hands-on Implementation
 
 ### 🔹 1. Creating Sample DataFrame (E-commerce Events)
-![Create DataFrame](Screenshots/Screenshot%202026-01-10%192143.png)
+![Create DataFrame](Screenshots/Screenshot%202026-01-10%200403.png)
 
 ---
 
 ### 🔹 2. Selecting Required Columns
-![Select Operation](screenshots/select_operation.png)
+![Select Operation](Screenshots/Screenshot%202026-01-10%200422.png)
 
 ---
 
 ### 🔹 3. Filtering Data using PySpark
-![Filter Operation](screenshots/filter_operation.png)
+![Filter Operation](Screenshots/Screenshot%202026-01-10%200430.png)
 
 ---
 
 ### 🔹 4. GroupBy Operation on Event Type
-![GroupBy Operation](screenshots/groupby_operation.png)
+![GroupBy Operation](Screenshots/Screenshot%202026-01-10%200439.png)
 
 ---
 
 ### 🔹 5. OrderBy to Find Top Brands
-![OrderBy Operation](screenshots/orderby_operation.png)
+![OrderBy Operation](Screenshots/Screenshot%202026-01-10%200446.png)
 
 ---
 
 ### 🔹 6. DataFrame Schema Exploration
-![Print Schema](screenshots/print_schema.png)
+![Print Schema](Screenshots/Screenshot%202026-01-10%200412.png)
 
 ---
 
