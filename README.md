@@ -43,6 +43,28 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 ➡️ [View Day-02 Documentation](Day-02/)
 
 ---
+## 📅 Day 03 – PySpark Transformations Deep Dive
+
+### 📘 What I Learned
+- PySpark vs Pandas comparison
+- Performing joins (inner, left, right, outer)
+- Revenue calculation using aggregations
+- Window functions (running totals & ranking)
+- Conversion rate analysis
+- Creating and using User-Defined Functions (UDFs)
+
+### ✅ Tasks Completed
+- Loaded full e-commerce dataset
+- Performed complex joins
+- Calculated top products by revenue
+- Implemented window functions
+- Derived conversion metrics
+- Built custom UDFs
+
+📂 **Detailed implementation with screenshots:**  
+➡️ [View Day 03 Documentation](Day 03/)
+
+---
 
 ## 📂 Repository Structure
 
@@ -56,7 +78,10 @@ Databricks-14-Days-Challenge/
 ├── Day 02/
 │   ├── README.md
 │   └── Screenshots/
-│
+├── Day 03/
+│   ├── README.md
+│   └── Screenshots/
+|
 └── README.md
 
 
