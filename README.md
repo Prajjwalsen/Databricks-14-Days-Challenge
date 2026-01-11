@@ -62,7 +62,7 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Built custom UDFs
 
 📂 **Detailed implementation with screenshots:**  
-➡️ [View Day 03 Documentation](Day 03/)
+➡️ [View Day-03 Documentation](Day-03/)
 
 ---
 
