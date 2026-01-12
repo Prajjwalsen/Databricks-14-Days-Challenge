@@ -1,4 +1,4 @@
-# 📅 Day 01 – Platform Setup & First Steps (Databricks)
+# 🎯 Day 01 – Platform Setup & First Steps (Databricks)
 
 ## 🚀 Databricks 14 Days AI Challenge
 This repository documents my learning journey for **Day 01** of the  
