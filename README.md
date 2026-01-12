@@ -1,7 +1,7 @@
 # Databricks-14-Days-Challenge
 This repository contains my daily progress, notebooks, and learnings from the Databricks 14 Days AI Challenge by Indian Data Club.
 
-## 📅 Day 01 – Platform Setup & First Steps (Databricks)
+## Day 01 – Platform Setup & First Steps (Databricks)
 
 ### 📘 What I Learned
 - Why Databricks is preferred over Pandas / Hadoop
@@ -23,7 +23,7 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 ---
 
 
-## 📅 Day 02 – PySpark DataFrame Operations
+## Day 02 – PySpark DataFrame Operations
 
 ### 📘 What I Learned
 - Creating PySpark DataFrames using `Row`
@@ -43,7 +43,7 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 ➡️ [View Day-02 Documentation](Day-02/)
 
 ---
-## 📅 Day 03 – PySpark Transformations Deep Dive
+## Day 03 – PySpark Transformations Deep Dive
 
 ### 📘 What I Learned
 - PySpark vs Pandas comparison
@@ -66,7 +66,7 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
-## 📅 Day 04 – Delta Lake Introduction
+## Day 04 – Delta Lake Introduction
 
 ### 📘 What I Learned
 - What is Delta Lake and why it is used
