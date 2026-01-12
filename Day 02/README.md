@@ -1,4 +1,4 @@
-# 📅 Day 02 – Apache Spark Fundamentals (Databricks)
+# 🎯 Day 02 – Apache Spark Fundamentals (Databricks)
 
 ## 🚀 Databricks 14 Days AI Challenge
 This repository documents my learning journey for **Day 02** of the  
