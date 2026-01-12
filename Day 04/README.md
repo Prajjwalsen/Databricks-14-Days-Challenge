@@ -1,4 +1,4 @@
-# 📅 Day 04 – Delta Lake Introduction
+# 🎯 Day 04 – Delta Lake Introduction
 
 This day focused on understanding **Delta Lake fundamentals** and implementing core features like **ACID transactions, schema enforcement, and duplicate handling** using both **PySpark and SQL** in Databricks.
 
