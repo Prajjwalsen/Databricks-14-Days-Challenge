@@ -66,6 +66,26 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
+## 📅 Day 04 – Delta Lake Introduction
+
+### 📘 What I Learned
+- What is Delta Lake and why it is used
+- ACID transactions in big data
+- Schema enforcement & validation
+- Delta vs Parquet
+- Handling duplicate data using MERGE
+
+### ✅ Tasks Completed
+- Converted CSV data into Delta format
+- Created Delta tables using PySpark and SQL
+- Tested schema enforcement with invalid schema
+- Detected and handled duplicate records using deduplication + MERGE
+
+📂 **Detailed implementation with screenshots:**  
+➡️ [View Day-04 Documentation](Day-04/)
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -78,10 +98,14 @@ Databricks-14-Days-Challenge/
 ├── Day 02/
 │   ├── README.md
 │   └── Screenshots/
+│
 ├── Day 03/
 │   ├── README.md
 │   └── Screenshots/
-|
-└── README.md
-
+│
+├── Day 04/
+│   ├── README.md
+│   └── Screenshots/
+│
+└── README.md   # Main project overview
 
