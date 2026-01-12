@@ -1,4 +1,4 @@
-# 📅 Day 03 – PySpark Transformations Deep Dive
+# 🎯 Day 03 – PySpark Transformations Deep Dive
 
 ## 🚀 Databricks 14 Days AI Challenge
 This document captures my **Day 03** progress in the  
