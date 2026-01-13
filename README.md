@@ -86,6 +86,27 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
+## 📅 Day 05 – Delta Lake Advanced (Phase 2: Data Engineering)
+
+### 📘 What I Learned
+- Incremental MERGE (Upserts)
+- Delta Lake Time Travel
+- Querying historical versions
+- OPTIMIZE for performance
+- Z-ORDER for data skipping
+- VACUUM behavior & retention safety
+
+### ✅ Tasks Completed
+- Implemented incremental MERGE
+- Queried Delta history & time travel versions
+- Optimized Delta tables
+- Applied Z-ORDER optimization
+- Understood VACUUM restrictions in Community Edition
+
+📂 **Detailed implementation with screenshots:**  
+➡️ [View Day-05 Documentation](Day-05/)
+
+
 ## 📂 Repository Structure
 
 ```text
@@ -104,6 +125,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 │
 ├── Day 04/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 05/
 │   ├── README.md
 │   └── Screenshots/
 │
