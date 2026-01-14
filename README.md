@@ -106,6 +106,25 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 📂 **Detailed implementation with screenshots:**  
 ➡️ [View Day-05 Documentation](Day-05/)
 
+##  Day 06 – Medallion Architecture (Phase 2: Data Engineering)
+
+### 📘 What I Learned
+- Medallion Architecture concepts (Bronze, Silver, Gold layers)
+- Raw data ingestion patterns
+- Data cleaning, validation & enrichment
+- Incremental processing best practices
+- Building business-ready aggregates
+
+### ✅ Tasks Completed
+- Designed 3-layer Medallion Architecture
+- Built **Bronze layer** for raw data ingestion
+- Built **Silver layer** for cleaned & validated data
+- Built **Gold layer** for business aggregates
+- Calculated metrics like conversion rate & revenue
+
+📂 **Detailed implementation with screenshots:**  
+➡️ [View Day-06 Documentation](Day-06/)
+
 
 ## 📂 Repository Structure
 
@@ -129,6 +148,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 05/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 06/
 │   ├── README.md
 │   └── Screenshots/
 │
