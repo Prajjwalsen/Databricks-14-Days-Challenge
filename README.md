@@ -1,129 +1,58 @@
 # Databricks-14-Days-Challenge
 This repository contains my daily progress, notebooks, and learnings from the Databricks 14 Days AI Challenge by Indian Data Club.
 
-## Day 01 – Platform Setup & First Steps (Databricks)
 
-### 📘 What I Learned
-- Why Databricks is preferred over Pandas / Hadoop
-- Basics of Lakehouse Architecture
-- Databricks Workspace structure
-- Introduction to PySpark DataFrames
-- Loading external datasets using Kaggle API
+## 📅 Daily Progress Overview
 
-### ✅ Tasks Completed
-- Created Databricks Community Edition account
-- Explored Workspace, Compute, and Catalog
-- Created first Databricks notebook
-- Ran basic PySpark commands
-- Downloaded and loaded Kaggle dataset into Databricks
-
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-01 Documentation](Day-01/)
+### ✅ Day 01 – Platform Setup & Basics
+- Databricks workspace setup
+- Lakehouse architecture basics
+- First PySpark DataFrame  
+📂 Documentation: [Day-01](Day-01/)
 
 ---
 
-
-## Day 02 – PySpark DataFrame Operations
-
-### 📘 What I Learned
-- Creating PySpark DataFrames using `Row`
-- Understanding DataFrame schema with `printSchema()`
-- Selecting specific columns from a DataFrame
-- Filtering records using conditions
-- Aggregating data using `groupBy`
-- Sorting data using `orderBy`
-
-### ✅ Tasks Completed
-- Created sample E-commerce events DataFrame
-- Explored DataFrame schema
-- Performed select and filter operations
-- Applied groupBy and orderBy for analysis
-
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-02 Documentation](Day-02/)
-
----
-## Day 03 – PySpark Transformations Deep Dive
-
-### 📘 What I Learned
-- PySpark vs Pandas comparison
-- Performing joins (inner, left, right, outer)
-- Revenue calculation using aggregations
-- Window functions (running totals & ranking)
-- Conversion rate analysis
-- Creating and using User-Defined Functions (UDFs)
-
-### ✅ Tasks Completed
-- Loaded full e-commerce dataset
-- Performed complex joins
-- Calculated top products by revenue
-- Implemented window functions
-- Derived conversion metrics
-- Built custom UDFs
-
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-03 Documentation](Day-03/)
+### ✅ Day 02 – PySpark DataFrame Operations
+- DataFrame creation & schema
+- Filtering, aggregations & sorting  
+📂 Documentation: [Day-02](Day-02/)
 
 ---
 
-## Day 04 – Delta Lake Introduction
-
-### 📘 What I Learned
-- What is Delta Lake and why it is used
-- ACID transactions in big data
-- Schema enforcement & validation
-- Delta vs Parquet
-- Handling duplicate data using MERGE
-
-### ✅ Tasks Completed
-- Converted CSV data into Delta format
-- Created Delta tables using PySpark and SQL
-- Tested schema enforcement with invalid schema
-- Detected and handled duplicate records using deduplication + MERGE
-
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-04 Documentation](Day-04/)
+### ✅ Day 03 – PySpark Transformations
+- Joins, window functions & UDFs
+- Revenue & conversion metrics  
+📂 Documentation: [Day-03](Day-03/)
 
 ---
 
-## 📅 Day 05 – Delta Lake Advanced (Phase 2: Data Engineering)
+### ✅ Day 04 – Delta Lake Introduction
+- Delta tables & ACID transactions
+- Schema enforcement & MERGE  
+📂 Documentation: [Day-04](Day-04/)
 
-### 📘 What I Learned
-- Incremental MERGE (Upserts)
-- Delta Lake Time Travel
-- Querying historical versions
-- OPTIMIZE for performance
-- Z-ORDER for data skipping
-- VACUUM behavior & retention safety
+---
 
-### ✅ Tasks Completed
-- Implemented incremental MERGE
-- Queried Delta history & time travel versions
-- Optimized Delta tables
-- Applied Z-ORDER optimization
-- Understood VACUUM restrictions in Community Edition
+### ✅ Day 05 – Delta Lake Advanced
+- Incremental MERGE & time travel
+- OPTIMIZE, Z-ORDER & VACUUM  
+📂 Documentation: [Day-05](Day-05/)
 
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-05 Documentation](Day-05/)
+---
 
-##  Day 06 – Medallion Architecture (Phase 2: Data Engineering)
+### ✅ Day 06 – Medallion Architecture
+- Bronze → Silver → Gold pipeline
+- Data cleaning & business aggregates  
+📂 Documentation: [Day-06](Day-06/)
 
-### 📘 What I Learned
-- Medallion Architecture concepts (Bronze, Silver, Gold layers)
-- Raw data ingestion patterns
-- Data cleaning, validation & enrichment
-- Incremental processing best practices
-- Building business-ready aggregates
+---
 
-### ✅ Tasks Completed
-- Designed 3-layer Medallion Architecture
-- Built **Bronze layer** for raw data ingestion
-- Built **Silver layer** for cleaned & validated data
-- Built **Gold layer** for business aggregates
-- Calculated metrics like conversion rate & revenue
+### ✅ Day 07 – Workflows & Job Orchestration
+- Databricks Jobs vs Notebooks
+- Workflow orchestration & dependencies
+- Automated Bronze → Silver → Gold execution  
+📂 Documentation: [Day-07](Day-07/)
 
-📂 **Detailed implementation with screenshots:**  
-➡️ [View Day-06 Documentation](Day-06/)
 
 
 ## 📂 Repository Structure
@@ -152,6 +81,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 06/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 07/
 │   ├── README.md
 │   └── Screenshots/
 │
