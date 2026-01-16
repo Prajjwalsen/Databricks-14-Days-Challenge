@@ -53,6 +53,13 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Automated Bronze → Silver → Gold execution  
 📂 Documentation: [Day-07](Day-07/)
 
+### ✅ Day 08 – Unity Catalog Governance
+- Catalog → Schema → Table hierarchy
+- Managed vs External Delta tables
+- Access control using GRANT / REVOKE
+- Controlled data access using Views
+- Governance & lineage concepts  
+📂 Documentation: [Day-08](Day-08/)
 
 
 ## 📂 Repository Structure
@@ -85,6 +92,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 07/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 08/
 │   ├── README.md
 │   └── Screenshots/
 │
