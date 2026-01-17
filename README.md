@@ -61,6 +61,14 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Governance & lineage concepts  
 📂 Documentation: [Day-08](Day-08/)
 
+✅ **Day 09 – SQL Analytics & Dashboards**
+- SQL Warehouses & serverless analytics
+- Advanced analytical SQL queries
+- Revenue trends & 7-day moving averages
+- Conversion funnel & customer segmentation
+- Product-level performance analysis
+📂 Documentation: [Day-09](Day-09/)
+
 
 ## 📂 Repository Structure
 
@@ -96,6 +104,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 08/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 09/
 │   ├── README.md
 │   └── Screenshots/
 │
