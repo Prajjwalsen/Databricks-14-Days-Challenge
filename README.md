@@ -69,6 +69,15 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Product-level performance analysis
 📂 Documentation: [Day-09](Day-09/)
 
+✅ **Day 10 – Performance Optimization**
+- Query execution plan analysis
+- Table partitioning strategies
+- OPTIMIZE & Z-ORDER for performance
+- Query benchmarking before vs after optimization
+- Understanding caching limitations on Serverless compute
+📂 Documentation: [Day-10](Day-10/)
+
+
 
 ## 📂 Repository Structure
 
@@ -108,6 +117,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 09/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 10/
 │   ├── README.md
 │   └── Screenshots/
 │
