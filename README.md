@@ -53,6 +53,8 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Automated Bronze → Silver → Gold execution  
 📂 Documentation: [Day-07](Day-07/)
 
+---
+
 ### ✅ Day 08 – Unity Catalog Governance
 - Catalog → Schema → Table hierarchy
 - Managed vs External Delta tables
@@ -60,6 +62,8 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Controlled data access using Views
 - Governance & lineage concepts  
 📂 Documentation: [Day-08](Day-08/)
+
+---
 
 ✅ **Day 09 – SQL Analytics & Dashboards**
 - SQL Warehouses & serverless analytics
@@ -69,6 +73,8 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Product-level performance analysis
 📂 Documentation: [Day-09](Day-09/)
 
+---
+
 ✅ **Day 10 – Performance Optimization**
 - Query execution plan analysis
 - Table partitioning strategies
@@ -77,6 +83,16 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 - Understanding caching limitations on Serverless compute
 📂 Documentation: [Day-10](Day-10/)
 
+---
+
+✅ **Day 11 – Statistical Analysis & ML Preparation**
+- Descriptive statistics using Spark
+- Hypothesis testing (weekday vs weekend analysis)
+- Correlation analysis between features
+- Feature engineering for ML readiness
+📁 Documentation: [Day-11](Day-11)
+
+---
 
 
 ## 📂 Repository Structure
@@ -121,6 +137,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 10/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 11/
 │   ├── README.md
 │   └── Screenshots/
 │
