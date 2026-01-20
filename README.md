@@ -94,6 +94,17 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
+✅ Day 12 (20/01/26) – MLflow Basics
+- MLflow components (tracking, runs, artifacts)
+- Experiment tracking with MLflow
+- Logging parameters, metrics, and models
+- Training a simple regression model
+- Exploring MLflow UI for run comparison
+📂 Documentation: [Day-12](Day-12)
+
+
+---
+
 
 ## 📂 Repository Structure
 
@@ -141,6 +152,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 11/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 12/
 │   ├── README.md
 │   └── Screenshots/
 │
