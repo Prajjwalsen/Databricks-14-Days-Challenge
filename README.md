@@ -105,6 +105,14 @@ This repository contains my daily progress, notebooks, and learnings from the Da
 
 ---
 
+✅ **Day 13 – Model Comparison & Feature Engineering**  
+- Trained multiple regression models (Linear, Decision Tree, Random Forest)  
+- Logged and compared model runs using MLflow  
+- Evaluated models using R² score  
+- Built end-to-end Spark ML Pipeline  
+- Explored best model selection strategy and limitations  
+📁 Documentation: [Day-13](Day-13)
+
 
 ## 📂 Repository Structure
 
@@ -156,6 +164,10 @@ Databricks-14-Days-Challenge/
 │   └── Screenshots/
 |
 ├── Day 12/
+│   ├── README.md
+│   └── Screenshots/
+|
+├── Day 13/
 │   ├── README.md
 │   └── Screenshots/
 │
